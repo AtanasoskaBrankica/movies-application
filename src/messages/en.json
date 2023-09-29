@@ -1,0 +1,39 @@
+{
+  "login": {
+    "title": "Log In",
+    "email": "Email Address",
+    "password": "Password",
+    "create-account": "Create a new account?",
+    "login-button": "Login"
+  },
+  "register": {
+    "title": "Register",
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "email": "Email Address",
+    "phone-number": "Phone Number",
+    "password": "Password",
+    "confirm-password": "Confirm Password",
+    "register-button": "Register"
+  },
+  "validationMessages": {
+    "first-name-required": "First Name is required.",
+    "first-name-invalid": "First Name should contain only letters.",
+    "last-name-required": "Last Name is required.",
+    "last-name-invalid": "Last Name should contain only letters.",
+    "email-required": "Email is required.",
+    "email-invalid": "Please enter a valid email address.",
+    "phone-number-required": "Phone Number is required.",
+    "phone-number-invalid": "Phone Number should contain exactly 9 numbers.",
+    "password-required": "Password is required.",
+    "password-invalid": "Password must be 8 to 15 characters long and contain at least one lowercase letter, one uppercase letter, one digit, and one special character.",
+    "confirm-password-required": "Confirm Password is required.",
+    "confirm-password-invalid": "Passwords do not match."
+  },
+  "navbar": {
+    "home": "Home",
+    "movies": "Movies",
+    "tv-shows": "Tv Shows",
+    "log-out": "Log out"
+  }
+}

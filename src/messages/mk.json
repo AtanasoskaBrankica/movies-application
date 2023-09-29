@@ -1,0 +1,39 @@
+{
+  "login": {
+    "title": "Најави се",
+    "email": "Е-маил адреса",
+    "password": "Лозинка",
+    "create-account": "Креирај нов кориснички профил?",
+    "login-button": "Најави се"
+  },
+  "register": {
+    "title": "Регистрација",
+    "first-name": "Име",
+    "last-name": "Презиме",
+    "email": "Е-маил адреса",
+    "phone-number": "Телефонски број",
+    "password": "Лозинка",
+    "confirm-password": "Потврди лозинка",
+    "register-button": "Регистрирај се"
+  },
+  "validationMessages": {
+    "first-name-required": "Името е задолжително.",
+    "first-name-invalid": "Името треба да содржи само букви.",
+    "last-name-required": "Презимето е задолжително.",
+    "last-name-invalid": "Презимето треба да содржи само букви.",
+    "email-required": "Е-маил адресата е задолжителна.",
+    "email-invalid": "Ве молиме внесете валидна е-маил адреса.",
+    "phone-number-required": "Телефонскиот број е задолжителен.",
+    "phone-number-invalid": "Телефонскиот број треба да содржи точно 9 броеви.",
+    "password-required": "Лозинката е задолжителна.",
+    "password-invalid": "Лозинката мора да биде долга од 8 до 15 знаци и да содржи барем една мала буква, една голема буква, една цифра и еден специјален знак.",
+    "confirm-password-required": "Лозинката за потврда е задолжителна.",
+    "confirm-password-invalid": "Лозинките не се совпаѓаат."
+  },
+  "navbar": {
+    "home": "Почетна",
+    "movies": "Филмови",
+    "tv-shows": "TВ Серии",
+    "log-out": "Одјави се"
+  }
+}
